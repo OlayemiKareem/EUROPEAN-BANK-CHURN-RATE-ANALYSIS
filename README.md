@@ -2,6 +2,8 @@
   <img src="images/project-banner.png" alt="European Bank Customer Churn Analysis" width="100%">
 </p>
 
+images/project-banner.png
+
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
   <img src="https://img.shields.io/badge/PivotTables-Data%20Analysis-0078D4?style=for-the-badge" alt="PivotTables">
